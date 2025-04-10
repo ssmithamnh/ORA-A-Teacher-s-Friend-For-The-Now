@@ -1,1 +1,2 @@
-# *Ora - A Teacher's Friend For The Now*
+# __Ora__
+> A Teacher's Friend For The Now
